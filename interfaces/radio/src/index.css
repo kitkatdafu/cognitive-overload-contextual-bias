@@ -1,0 +1,11 @@
+.question-image {
+  display: block;
+  max-height: 200px;
+  max-width: 200px;
+  width: auto;
+  height: auto;
+}
+
+#submit {
+  padding-top: 12px;
+}

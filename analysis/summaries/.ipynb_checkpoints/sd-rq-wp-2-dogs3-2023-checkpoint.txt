@@ -1,0 +1,38 @@
+===== dogs3 =====
+Adjacency Matrix (Upper triangle)
+	# should be 1 : 2124
+	# should be 0 : 4412
+	# 1 -> 0      : 1124
+	# 0 -> 1      : 539
+	1 -> 0        : 0.529
+	0 -> 1        : 0.122
+	Edge error    : 0.254
+Adjacency Matrix (Accounts for Duplication, Upper triangle)
+	# should be 1 : 2964
+	# should be 0 : 6036
+	# 1 -> 0      : 1568
+	# 0 -> 1      : 705
+	1 -> 0        : 0.529
+	0 -> 1        : 0.117
+	Edge error    : 0.253
+Question
+	# unique questions  : 6536
+	# questions         : 9000
+	# correct questions : 6727
+	# wrong questions   : 2273
+	Question error      : 0.253
+Time per question (in second)
+	Mean      : 7.796
+	Median    : 5.694
+	Std. Dev. : 10.740
+
+Edge Density Matrix
+[[0.34334764 0.09216152 0.06736243]
+ [0.09216152 0.25762712 0.11135491]
+ [0.06736243 0.11135491 0.40700219]]
+Count Matrix
+[[2330. 2105. 2108.]
+ [2105. 1770. 1823.]
+ [2108. 1823. 1828.]]
+VI after spectral clustering:
+1.383
