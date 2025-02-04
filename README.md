@@ -11,7 +11,7 @@ The root of the codebase contains 4 directories.
 1. `analysis` contains code we used to analyze our reuslts
 2. `datasets` contains the datasets we used in the paper
 3. `interfaces` contains the two interfaces we used in the paper
-4. `simulations` contain sthe code we used to conduct simulation study
+4. `simulations` contains the code we used to conduct simulation study
 
 ## Citation
 
