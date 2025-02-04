@@ -1,5 +1,7 @@
 # Query Design for Crowdsourced Clustering: Effect of Cognitive Overload and Contextual Bias
 
+[![DOI](https://zenodo.org/badge/926859517.svg)](https://doi.org/10.5281/zenodo.14799397)
+
 This repository provides code for the simulations, experiments, and datasets in our paper: [Query Design for Crowdsourced Clustering: Effect of Cognitive Overload and Contextual Bias](https://doi.org/10.1145/3696410.3714587) @ The Web Conference 2025 (WWW 2025).
 
 ## Requirements
