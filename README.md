@@ -18,3 +18,14 @@ The root of the codebase contains 4 directories.
 ## Citation
 
 If you find our repository useful for your research, please consider citing our paper.
+
+```bibtex
+@inproceedings{
+chen2025query,
+title={Query Design for Crowdsourced Clustering: Effect of Cognitive Overload and Contextual Bias},
+author={Yi Chen and Ramya Korlakai Vinayak},
+booktitle={THE WEB CONFERENCE 2025},
+year={2025},
+url={https://openreview.net/forum?id=51IyhOAptb}
+}
+```
